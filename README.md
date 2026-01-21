@@ -2,9 +2,8 @@
 
 This repository contains a full-stack e-commerce application, **eMart**, containerized using Docker and deployed on **AWS EC2**.
 
-<p align="center">
-  <img src="./DIAGRAMS/EMart%20App%20Architecture.png" alt="Project Architecture" width="800">
-</p>
+### Architecture Diagram
+![Architecture Diagram](./Diagrams/EMart App Architecture.png)
 
 ## 🏗️ Architecture
 The application follows a microservices architecture orchestrated with **Docker Compose**:
